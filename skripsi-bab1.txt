@@ -1,4 +1,5 @@
 membuat bab1 
 - tujuan dari skripsi
 manfaat penulisannya
--landasan teori
+
+-membuat program
